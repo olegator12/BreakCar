@@ -1,0 +1,226 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af8e709cd6ac44fe94f72b8c0e3542f0, type: 3}
+  m_Name: Weapon Configuration
+  m_EditorClassIdentifier: 
+  _content:
+    _serializedList:
+    - Key: 1
+      Value:
+        _damageTypes: 01000000
+        _fov: 65
+        _desktopFOVScale: 0.92
+        <Uses>k__BackingField: 15
+        <DamageValue>k__BackingField: 0
+        <Speed>k__BackingField: 0.25
+        <DelayModifier>k__BackingField: 1
+        <CameraShakeModifier>k__BackingField: 0.15
+        <DeformationModifier>k__BackingField: 1
+        <RotationForce>k__BackingField: 1
+        <IsAutomaticGun>k__BackingField: 0
+        <Icon>k__BackingField: {fileID: 21300000, guid: cdf4292dfc49ff245a93525c7fec4a1e, type: 3}
+    - Key: 2
+      Value:
+        _damageTypes: 02000000
+        _fov: 65
+        _desktopFOVScale: 0.92
+        <Uses>k__BackingField: 30
+        <DamageValue>k__BackingField: 1
+        <Speed>k__BackingField: 10
+        <DelayModifier>k__BackingField: 1
+        <CameraShakeModifier>k__BackingField: 0.5
+        <DeformationModifier>k__BackingField: 0.8
+        <RotationForce>k__BackingField: 1
+        <IsAutomaticGun>k__BackingField: 0
+        <Icon>k__BackingField: {fileID: 21300000, guid: 3ea33ad205f46fa49afd2af1b4b545ab, type: 3}
+    - Key: 0
+      Value:
+        _damageTypes: 00000000
+        _fov: 65
+        _desktopFOVScale: 0.92
+        <Uses>k__BackingField: 45
+        <DamageValue>k__BackingField: 1
+        <Speed>k__BackingField: 0.25
+        <DelayModifier>k__BackingField: 0.85
+        <CameraShakeModifier>k__BackingField: 0.25
+        <DeformationModifier>k__BackingField: 1
+        <RotationForce>k__BackingField: 1
+        <IsAutomaticGun>k__BackingField: 0
+        <Icon>k__BackingField: {fileID: 21300000, guid: 250f13b5545a76a49b0e2cdb6cb49987, type: 3}
+    - Key: 3
+      Value:
+        _damageTypes: 05000000
+        _fov: 85
+        _desktopFOVScale: 0.95
+        <Uses>k__BackingField: 45
+        <DamageValue>k__BackingField: 2
+        <Speed>k__BackingField: 12
+        <DelayModifier>k__BackingField: 0.8
+        <CameraShakeModifier>k__BackingField: 0.2
+        <DeformationModifier>k__BackingField: 0.8
+        <RotationForce>k__BackingField: 0.2
+        <IsAutomaticGun>k__BackingField: 0
+        <Icon>k__BackingField: {fileID: 21300000, guid: e31bb1fb45ead834bb970038de67fa3c, type: 3}
+    - Key: 4
+      Value:
+        _damageTypes: 04000000
+        _fov: 90
+        _desktopFOVScale: 0.95
+        <Uses>k__BackingField: 15
+        <DamageValue>k__BackingField: 6
+        <Speed>k__BackingField: 8
+        <DelayModifier>k__BackingField: 0.5
+        <CameraShakeModifier>k__BackingField: 0.2
+        <DeformationModifier>k__BackingField: 2.5
+        <RotationForce>k__BackingField: 1
+        <IsAutomaticGun>k__BackingField: 0
+        <Icon>k__BackingField: {fileID: 21300000, guid: fd689e57e89261a4ca17f5c4ff9b80cc, type: 3}
+    - Key: 5
+      Value:
+        _damageTypes: 02000000
+        _fov: 80
+        _desktopFOVScale: 0.95
+        <Uses>k__BackingField: 100
+        <DamageValue>k__BackingField: 1
+        <Speed>k__BackingField: 45
+        <DelayModifier>k__BackingField: 0.3
+        <CameraShakeModifier>k__BackingField: 0.05
+        <DeformationModifier>k__BackingField: 0.8
+        <RotationForce>k__BackingField: 1
+        <IsAutomaticGun>k__BackingField: 0
+        <Icon>k__BackingField: {fileID: 21300000, guid: 84f05f4b55acd654eb26ea906fefdeac, type: 3}
+    - Key: 6
+      Value:
+        _damageTypes: 
+        _fov: 82
+        _desktopFOVScale: 0.95
+        <Uses>k__BackingField: 45
+        <DamageValue>k__BackingField: 3
+        <Speed>k__BackingField: 15
+        <DelayModifier>k__BackingField: 0.9
+        <CameraShakeModifier>k__BackingField: 0.5
+        <DeformationModifier>k__BackingField: 0.1
+        <RotationForce>k__BackingField: 0.2
+        <IsAutomaticGun>k__BackingField: 0
+        <Icon>k__BackingField: {fileID: 21300000, guid: dec665a435b59a240a4b8caf4c1edc32, type: 3}
+    - Key: 7
+      Value:
+        _damageTypes: 04000000
+        _fov: 65
+        _desktopFOVScale: 0.92
+        <Uses>k__BackingField: 50
+        <DamageValue>k__BackingField: 2
+        <Speed>k__BackingField: 0.25
+        <DelayModifier>k__BackingField: 1
+        <CameraShakeModifier>k__BackingField: 0.5
+        <DeformationModifier>k__BackingField: 1.5
+        <RotationForce>k__BackingField: 0.2
+        <IsAutomaticGun>k__BackingField: 0
+        <Icon>k__BackingField: {fileID: 21300000, guid: 70bb4ebe73a77a6468f285083e6e61d6, type: 3}
+    - Key: 9
+      Value:
+        _damageTypes: 04000000
+        _fov: 65
+        _desktopFOVScale: 0.92
+        <Uses>k__BackingField: 10
+        <DamageValue>k__BackingField: 6
+        <Speed>k__BackingField: 0.25
+        <DelayModifier>k__BackingField: 1
+        <CameraShakeModifier>k__BackingField: 0.5
+        <DeformationModifier>k__BackingField: 3
+        <RotationForce>k__BackingField: 0.2
+        <IsAutomaticGun>k__BackingField: 0
+        <Icon>k__BackingField: {fileID: 21300000, guid: 33def2997cecb7944acec448f3ef8403, type: 3}
+    - Key: 10
+      Value:
+        _damageTypes: 05000000
+        _fov: 80
+        _desktopFOVScale: 0.95
+        <Uses>k__BackingField: 100
+        <DamageValue>k__BackingField: 1.35
+        <Speed>k__BackingField: 12
+        <DelayModifier>k__BackingField: 0.5
+        <CameraShakeModifier>k__BackingField: 0.02
+        <DeformationModifier>k__BackingField: 0.8
+        <RotationForce>k__BackingField: 0.07
+        <IsAutomaticGun>k__BackingField: 1
+        <Icon>k__BackingField: {fileID: 21300000, guid: b0ea98fd71e71d14893f150d9fdb7085, type: 3}
+    - Key: 11
+      Value:
+        _damageTypes: 05000000
+        _fov: 80
+        _desktopFOVScale: 0.95
+        <Uses>k__BackingField: 50
+        <DamageValue>k__BackingField: 3
+        <Speed>k__BackingField: 12
+        <DelayModifier>k__BackingField: 0.9
+        <CameraShakeModifier>k__BackingField: 0.35
+        <DeformationModifier>k__BackingField: 0.8
+        <RotationForce>k__BackingField: 0.2
+        <IsAutomaticGun>k__BackingField: 0
+        <Icon>k__BackingField: {fileID: 21300000, guid: da6f335927850bd4182b56c5764f0857, type: 3}
+    - Key: 12
+      Value:
+        _damageTypes: 05000000
+        _fov: 85
+        _desktopFOVScale: 0.95
+        <Uses>k__BackingField: 120
+        <DamageValue>k__BackingField: 1.5
+        <Speed>k__BackingField: 20
+        <DelayModifier>k__BackingField: 0.5
+        <CameraShakeModifier>k__BackingField: 0.05
+        <DeformationModifier>k__BackingField: 0.8
+        <RotationForce>k__BackingField: 0.2
+        <IsAutomaticGun>k__BackingField: 1
+        <Icon>k__BackingField: {fileID: 21300000, guid: 6a14c7451acff4348ab592865bfa35f0, type: 3}
+    - Key: 13
+      Value:
+        _damageTypes: 04000000
+        _fov: 80
+        _desktopFOVScale: 0.95
+        <Uses>k__BackingField: 50
+        <DamageValue>k__BackingField: 4.1
+        <Speed>k__BackingField: 12
+        <DelayModifier>k__BackingField: 0.7
+        <CameraShakeModifier>k__BackingField: 0.5
+        <DeformationModifier>k__BackingField: 2.1
+        <RotationForce>k__BackingField: 0.2
+        <IsAutomaticGun>k__BackingField: 0
+        <Icon>k__BackingField: {fileID: 21300000, guid: 55315ed708a21ef468c64c1bad38e025, type: 3}
+    - Key: 14
+      Value:
+        _damageTypes: 04000000
+        _fov: 80
+        _desktopFOVScale: 0.95
+        <Uses>k__BackingField: 30
+        <DamageValue>k__BackingField: 6
+        <Speed>k__BackingField: 10
+        <DelayModifier>k__BackingField: 1
+        <CameraShakeModifier>k__BackingField: 0.5
+        <DeformationModifier>k__BackingField: 4
+        <RotationForce>k__BackingField: 0.2
+        <IsAutomaticGun>k__BackingField: 0
+        <Icon>k__BackingField: {fileID: 21300000, guid: 0e0b735b2146a8740a0eb21cd733efac, type: 3}
+    - Key: 8
+      Value:
+        _damageTypes: 04000000
+        _fov: 65
+        _desktopFOVScale: 0.92
+        <Uses>k__BackingField: 50
+        <DamageValue>k__BackingField: 2
+        <Speed>k__BackingField: 0.25
+        <DelayModifier>k__BackingField: 1
+        <CameraShakeModifier>k__BackingField: 0.5
+        <DeformationModifier>k__BackingField: 2
+        <RotationForce>k__BackingField: 0.2
+        <IsAutomaticGun>k__BackingField: 0
+        <Icon>k__BackingField: {fileID: 21300000, guid: 00daf507f54d2ab43b174ba8e1dc8a07, type: 3}

@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08c3da1bfe6542778e639bd05938fdd0, type: 3}
+  m_Name: Painter Configuration
+  m_EditorClassIdentifier: 
+  <CarTemplate>k__BackingField: {fileID: 3257089943609310807, guid: de13a4b3fb227704e86820e26fb6ab1b, type: 3}
+  <GlassTemplate>k__BackingField: {fileID: 2100000, guid: aa29d8754e8e4324da5f959451835128, type: 2}
+  <MatteTemplate>k__BackingField: {fileID: -3291317860968054045, guid: 1e43c4e8f7fbd0e4c91a0e015ebd484a, type: 3}
+  <GlossyTemplate>k__BackingField: {fileID: 2100000, guid: 51501a8e09d118a4b88088481087367c, type: 2}
+  <ChromeTemplate>k__BackingField: {fileID: 2100000, guid: 1f014678e86e9a94f8f92e8afaf0becd, type: 2}
+  <Clear>k__BackingField: {fileID: 21300000, guid: e3d8c81c7a5aacf4da0cb5636acf6513, type: 3}
+  <ColorPicker>k__BackingField: {fileID: 21300000, guid: 4fff582f9ca8c5c4c92b87ddba5833b3, type: 3}
+  <Color>k__BackingField: {fileID: 21300000, guid: c942710097002d745b5852cc7cc559a8, type: 3}
+  <Window>k__BackingField: {fileID: 21300000, guid: 1aa8125bf40b5ba46a10c4940820591e, type: 3}
+  <Colors>k__BackingField:
+  - {r: 1, g: 0, b: 0, a: 1}
+  - {r: 0.60993195, g: 0, b: 1, a: 1}
+  - {r: 1, g: 0.20943397, b: 0.7178762, a: 1}
+  - {r: 1, g: 0.507121, b: 0, a: 1}
+  - {r: 0.99531305, g: 1, b: 0, a: 1}
+  - {r: 0, g: 0.13075256, b: 1, a: 1}
+  <Windows>k__BackingField:
+  - {r: 1, g: 0, b: 0, a: 1}
+  - {r: 0.60993195, g: 0, b: 1, a: 1}
+  - {r: 1, g: 0.20943397, b: 0.7178762, a: 1}
+  - {r: 1, g: 0.507121, b: 0, a: 1}
+  - {r: 0.99531305, g: 1, b: 0, a: 1}
+  - {r: 0, g: 0.13075256, b: 1, a: 1}
+  <Wheels>k__BackingField:
+  - Key: {fileID: 21300000, guid: 07a1569e33d4b81419eeeca61748f66e, type: 3}
+    Value: {fileID: 6696914002194188113, guid: 00215dfef835aba4ea72e745aea18fdf, type: 3}
+  - Key: {fileID: 21300000, guid: 586556bcb811f1043a5ad4c6b05bd8ac, type: 3}
+    Value: {fileID: -1159503777215630448, guid: 5624b1db2fc9a504b93292681b8d5775, type: 3}
+  - Key: {fileID: 21300000, guid: ab55c7c92f62c7c49bc9a96d160805e6, type: 3}
+    Value: {fileID: 1497859706956862704, guid: e6e78853e220ded42998aa2c607a0e25, type: 3}
+  - Key: {fileID: 21300000, guid: b1c989f793912ff45b47c59f7bdadc3a, type: 3}
+    Value: {fileID: 3542780004529732611, guid: e9dd33cf1609f614bb718b081a871329, type: 3}
+  - Key: {fileID: 21300000, guid: 87da29a9e1338a9438ceedbd38533eb3, type: 3}
+    Value: {fileID: 420866703001906008, guid: fb373f0f6f220964da535dd9d2d6aa88, type: 3}
+  - Key: {fileID: 21300000, guid: 49af831a36a5a3346b58f8eefb099655, type: 3}
+    Value: {fileID: 6948440459055010841, guid: 8b3ac89a392007742bfb1e315f472d92, type: 3}
+  - Key: {fileID: 21300000, guid: 47aab49061d4c3d41b328be102b70162, type: 3}
+    Value: {fileID: -5725566000005907592, guid: 3504a107759f9a24ca8951f52959a0a1, type: 3}
+  - Key: {fileID: 21300000, guid: da41f6c601e1fef419977e47ab974ac1, type: 3}
+    Value: {fileID: -6726032428193506138, guid: 8ce3a3d0bf91ae142940959aaf4a222d, type: 3}
+  - Key: {fileID: 21300000, guid: 04f2d907b4b13b141a4282cc6b887262, type: 3}
+    Value: {fileID: 3248001321531559585, guid: b1055ae2c1da9ed4c900455edd6a0999, type: 3}
+  - Key: {fileID: 21300000, guid: 6ad0e9c28dcd21b4b8efb93aaa66e609, type: 3}
+    Value: {fileID: 6605484286569220232, guid: ffcb92dd1dc2f5a419075cc89ddb3564, type: 3}
+  - Key: {fileID: 21300000, guid: df0ce7318db99a14c88a196a3b7e87c5, type: 3}
+    Value: {fileID: 2504520079678863615, guid: 9ed75bb5e5ad97d41b56c9e66a82eddc, type: 3}
+  <WheelScales>k__BackingField:
+    _serializedList:
+    - Key: 1
+      Value:
+        _serializedList:
+        - Key: 1
+          Value: 1
+        - Key: 0
+          Value: 0.7
+        - Key: 2
+          Value: 0.58
+        - Key: 3
+          Value: 0.6
+        - Key: 4
+          Value: 0.33
+    - Key: 0
+      Value:
+        _serializedList:
+        - Key: 1
+          Value: 1.22
+        - Key: 0
+          Value: 1
+        - Key: 2
+          Value: 0.76
+        - Key: 3
+          Value: 0.65
+        - Key: 4
+          Value: 0.42
+    - Key: 2
+      Value:
+        _serializedList:
+        - Key: 1
+          Value: 1.6
+        - Key: 0
+          Value: 1.15
+        - Key: 2
+          Value: 1
+        - Key: 3
+          Value: 0.84
+        - Key: 4
+          Value: 0.56
+    - Key: 3
+      Value:
+        _serializedList:
+        - Key: 1
+          Value: 1.9
+        - Key: 0
+          Value: 1.4
+        - Key: 2
+          Value: 1.16
+        - Key: 3
+          Value: 1
+        - Key: 4
+          Value: 0.68
+    - Key: 4
+      Value:
+        _serializedList:
+        - Key: 1
+          Value: 3
+        - Key: 0
+          Value: 2.35
+        - Key: 2
+          Value: 2.1
+        - Key: 3
+          Value: 1.73
+        - Key: 4
+          Value: 1.17

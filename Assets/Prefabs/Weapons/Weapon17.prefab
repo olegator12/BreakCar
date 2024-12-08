@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1322033883149365281
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -9023308325926148986, guid: 3a4b50a2b297f23438548550791bba4f, type: 3}
+      propertyPath: m_StitchLightmapSeams
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -9023308325926148986, guid: 3a4b50a2b297f23438548550791bba4f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: c9d988686a76ec348b9f948710a09400, type: 2}
+    - target: {fileID: -8679921383154817045, guid: 3a4b50a2b297f23438548550791bba4f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.003
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3a4b50a2b297f23438548550791bba4f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3a4b50a2b297f23438548550791bba4f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3a4b50a2b297f23438548550791bba4f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3a4b50a2b297f23438548550791bba4f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3a4b50a2b297f23438548550791bba4f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3a4b50a2b297f23438548550791bba4f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3a4b50a2b297f23438548550791bba4f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3a4b50a2b297f23438548550791bba4f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3a4b50a2b297f23438548550791bba4f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 711951387401107176, guid: 3a4b50a2b297f23438548550791bba4f, type: 3}
+      propertyPath: m_StitchLightmapSeams
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 711951387401107176, guid: 3a4b50a2b297f23438548550791bba4f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 0c73793383f8b164cb5d06918f74ed08, type: 2}
+    - target: {fileID: 919132149155446097, guid: 3a4b50a2b297f23438548550791bba4f, type: 3}
+      propertyPath: m_Name
+      value: Weapon17
+      objectReference: {fileID: 0}
+    - target: {fileID: 1315575247686955204, guid: 3a4b50a2b297f23438548550791bba4f, type: 3}
+      propertyPath: m_StitchLightmapSeams
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1315575247686955204, guid: 3a4b50a2b297f23438548550791bba4f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b663e48edd9ea824da353d0dcc51bd95, type: 2}
+    - target: {fileID: 3415189177579191845, guid: 3a4b50a2b297f23438548550791bba4f, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9172684387597933904, guid: 3a4b50a2b297f23438548550791bba4f, type: 3}
+      propertyPath: m_StitchLightmapSeams
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9172684387597933904, guid: 3a4b50a2b297f23438548550791bba4f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 0c73793383f8b164cb5d06918f74ed08, type: 2}
+    - target: {fileID: 9175926306270855335, guid: 3a4b50a2b297f23438548550791bba4f, type: 3}
+      propertyPath: m_StitchLightmapSeams
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9175926306270855335, guid: 3a4b50a2b297f23438548550791bba4f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 1f014678e86e9a94f8f92e8afaf0becd, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3a4b50a2b297f23438548550791bba4f, type: 3}

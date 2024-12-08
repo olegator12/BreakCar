@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09cbf5e1c3ee41cd9f34b4ef33e3cc93, type: 3}
+  m_Name: Car Prices Configuration
+  m_EditorClassIdentifier: 
+  <Cars>k__BackingField:
+  - Key: {fileID: 203484279338010171, guid: 7a04fb12336489e4a9550668a2066627, type: 3}
+    Value: 100
+  - Key: {fileID: -4068706615892493861, guid: cbd40e8a2978b5a4cb72282f96d1d1f0, type: 3}
+    Value: 115
+  - Key: {fileID: 7272097297688739529, guid: f9c005ca82cc0424187f3cedd6f304d2, type: 3}
+    Value: 143
+  - Key: {fileID: 1245539851414886933, guid: 70d67f8d1e300ae4fabbc5d0dd3c875b, type: 3}
+    Value: 187
+  - Key: {fileID: 1923170615545245090, guid: 1a5c10e76879e0d4d887c04ddbba03fb, type: 3}
+    Value: 243
+  - Key: {fileID: 6221207749213106636, guid: 8c6d64acebe2ffb4696363a24e421c59, type: 3}
+    Value: 315
+  - Key: {fileID: 4639697903785196405, guid: bfe584fa55e93cf428b2b6639ed1854d, type: 3}
+    Value: 409
+  - Key: {fileID: 2931680968810813766, guid: 11cc18aea13977e4d8fb9e865db321be, type: 3}
+    Value: 531
+  - Key: {fileID: 850472978678187702, guid: 5f33b9df38b590549aecc6bb56b5fea5, type: 3}
+    Value: 690
+  - Key: {fileID: 5175761821058201647, guid: f819897b0090ef74799be0f74bb98d2f, type: 3}
+    Value: 897
+  - Key: {fileID: 476065434316207524, guid: 9c5133cd8a83ed443932d964ddefb5d2, type: 3}
+    Value: 1166
+  - Key: {fileID: 9041279944152872661, guid: 4a2ebcdd090bcda4a8750ba2d5bcf837, type: 3}
+    Value: 1515
+  - Key: {fileID: 1398861024629301641, guid: d0f9a60d8317ced45b3fc6a3dc26a556, type: 3}
+    Value: 1969
+  - Key: {fileID: 5175761821058201647, guid: b111c265ffbb4344bbcbf0a999ee285d, type: 3}
+    Value: 2559
+  - Key: {fileID: 5713743821005869451, guid: b25529c8bad00344eb65b5fa89690481, type: 3}
+    Value: 3326
+  - Key: {fileID: 610110447835417639, guid: d6961f482a27f7a4aaf78cc1892ba2a9, type: 3}
+    Value: 4323
+  - Key: {fileID: -5946235584924840957, guid: 2329e3881fc19264084f36dcdb259cab, type: 3}
+    Value: 5619
+  - Key: {fileID: 4639697903785196405, guid: d5ccfb2f8cec4ea42bf01d9adf501b30, type: 3}
+    Value: 7304
+  - Key: {fileID: 7385535478332125035, guid: 6316d2e7ee1224a479e016067a952413, type: 3}
+    Value: 9495
+  - Key: {fileID: 850472978678187702, guid: e68858d3202b8164bb373a76f928b2ed, type: 3}
+    Value: 12343
+  - Key: {fileID: -8028403836715781874, guid: 2aba224f284c52f4fa259e876350f7b6, type: 3}
+    Value: 16045
+  - Key: {fileID: -122690966847292530, guid: 7edb8da778df37c4aa2e09a3bd6ad236, type: 3}
+    Value: 20858
+  - Key: {fileID: 5696539099832676934, guid: 579dab34eb69f1341a5c5d36dc1236d6, type: 3}
+    Value: 27115
+  - Key: {fileID: 3484583548355309282, guid: a52c2ed832bbc0a4dabcd789827826fb, type: 3}
+    Value: 35249
+  - Key: {fileID: 4630471273122697390, guid: 530e73cae334ba340b23684bb38a71a4, type: 3}
+    Value: 45823
+  - Key: {fileID: 2931680968810813766, guid: a4be30aaeddeea043b1a14e8b154afaa, type: 3}
+    Value: 59569
+  - Key: {fileID: 4593725369274701698, guid: d5ebe17019d8dd14296e6770a1ffa1dd, type: 3}
+    Value: 77426
+  - Key: {fileID: -3181029451478080199, guid: eb36dff7caeb71542b363ca83dd535cc, type: 3}
+    Value: 100653
+  - Key: {fileID: -4456669348619436062, guid: 64d9cc218dbdfb3469f12a15b041c42e, type: 3}
+    Value: 130848
+  - Key: {fileID: -1901464734320760942, guid: 8cf026ffed39ab44cb2d2c955c5d523a, type: 3}
+    Value: 169712
+  - Key: {fileID: 1398861024629301641, guid: 1c2bf6406ad622442b69785a6ab6ea23, type: 3}
+    Value: 226282
+  - Key: {fileID: 1675603877210684938, guid: 65fc69dc5d135414486f901d8721e4b6, type: 3}
+    Value: 301709
+  - Key: {fileID: -1702615943380154581, guid: 7cf4e0a1b88100542b0d1a43ce635250, type: 3}
+    Value: 402278
+  - Key: {fileID: -9151620544506794908, guid: 6a7b7ba4658281a49af6b6d3b93c1515, type: 3}
+    Value: 536371
+  - Key: {fileID: 1398861024629301641, guid: 1bbca394b9eb11142a73201f18448c43, type: 3}
+    Value: 715162
+  - Key: {fileID: 1923170615545245090, guid: 700351f66be69aa419b50b2667608408, type: 3}
+    Value: 999999
